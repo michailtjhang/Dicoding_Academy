@@ -1,4 +1,4 @@
-# DiCoding
+# DiCoding Academy
 Pembelajaran Materi DiCoding
 
 ## Materi Pembelajaran
